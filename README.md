@@ -187,9 +187,11 @@ Revenue and order trends
 
 Opportunities to optimize product offerings and promotions
 
+ These insights can support decisions related to sales strategy, promotions, inventory planning, and product management.
+
 **📌 Conclusion**
 
 The Pizza Sales Analysis project demonstrates how raw transactional data can be transformed into meaningful business insights using SQL and Power BI.
 
-By combining SQL-based analysis with an interactive Power BI dashboard, the project provides a clear view of revenue, orders, product performance, customer preferences, and sales trends, helping stakeholders make more informed business decisions. These insights can support decisions related to sales strategy, promotions, inventory planning, and product management.
+By combining SQL-based analysis with an interactive Power BI dashboard, the project provides a clear view of revenue, orders, product performance, customer preferences, and sales trends, helping stakeholders make more informed business decisions.
 
