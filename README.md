@@ -1,12 +1,14 @@
 **🍕 Pizza Sales Analysis | SQL & Power BI**
 
 **📊 **Project Overview****
+
 This project analyzes pizza sales data to uncover key sales trends, product performance, customer ordering patterns, and revenue insights.
 
 The project uses SQL for data analysis and Power BI for interactive data visualization, transforming raw transactional data into a business-focused dashboard 
 that can help stakeholders understand sales performance and identify opportunities for improvement.
 
 **🎯 Business Objectives**
+
 The analysis aims to answer key business questions such as:
 
 How much revenue is being generated?
@@ -28,6 +30,7 @@ How do sales change throughout the week and across different months?
 What are the key trends in revenue and order volume?
 
 **🛠️ Tools & Technologies**
+
 SQL – Data querying, transformation, aggregation, and KPI calculations
 
 Power BI – Interactive dashboard development and data visualization
@@ -39,6 +42,7 @@ Power Query – Data cleaning and transformation
 Excel/CSV – Source data and initial data inspection
 
 **📁 Dataset**
+
 The dataset contains transactional pizza sales information, including fields such as:
 
 Order ID
@@ -62,6 +66,7 @@ Total Order Value
 The data was prepared and transformed before being used for analysis and visualization.
 
 **📈 Key KPIs**
+
 The Power BI dashboard tracks several important business metrics:
 **
 KPI	Description**
@@ -74,6 +79,7 @@ KPI	Description**
 **📊 Dashboard Analysis**
 
 **1. Sales Overview**
+
 Provides a high-level view of overall business performance, including:
 
 Total Revenue
@@ -87,6 +93,7 @@ Average Order Value
 Average Pizzas per Order
 **
 2. Sales Trends**
+
 Analyzes sales performance over time to identify:
 
 Daily sales patterns
@@ -100,6 +107,7 @@ Peak ordering periods
 Changes in order volume
 
 **3. Product Performance**
+
 Analyzes individual pizza performance to identify:
 
 Top-selling pizzas
@@ -113,6 +121,7 @@ Product demand by quantity
 Product performance by category
 
 **4. Category & Size Analysis**
+
 Examines customer preferences across:
 
 Pizza categories
@@ -126,6 +135,8 @@ Order quantity
 This helps identify which product categories and sizes contribute most to overall sales.
 **
 🔍 SQL Analysis**
+
+
 SQL was used to extract and calculate business metrics from the transactional data.
 
 SQL queries were also used for time-based analysis, category analysis, size analysis, and product performance.
@@ -159,6 +170,7 @@ Dynamic visualizations
 Users can filter the dashboard to explore specific dates, categories, sizes, and products.
 **
 💡 Business Insights**
+
 The analysis helps identify:
 
 Products driving the highest sales
@@ -170,6 +182,12 @@ High-performing pizza categories
 Customer preferences for pizza sizes
 
 Peak sales periods
+
+**📌 Conclusion**
+
+The Pizza Sales Analysis project demonstrates how raw transactional data can be transformed into meaningful business insights using SQL and Power BI.
+
+By combining SQL-based analysis with an interactive Power BI dashboard, the project provides a clear view of revenue, orders, product performance, customer preferences, and sales trends, helping stakeholders make more informed business decisions.
 
 Revenue and order trends
 
