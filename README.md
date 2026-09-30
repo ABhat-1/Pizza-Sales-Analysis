@@ -91,6 +91,7 @@ Total Pizzas Sold
 Average Order Value
 
 Average Pizzas per Order
+
 **
 2. Sales Trends**
 
@@ -133,6 +134,7 @@ Revenue contribution
 Order quantity
 
 This helps identify which product categories and sizes contribute most to overall sales.
+
 **
 🔍 SQL Analysis**
 
